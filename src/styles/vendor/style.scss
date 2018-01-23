@@ -1,0 +1,16 @@
+body {
+    background: $color-body;
+    color: $color-body-text;
+}
+
+a {
+    color: $color-primary;
+}
+
+header {
+    background: $color-primary;
+
+    h1 {
+        margin: 0;
+    }
+}
